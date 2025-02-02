@@ -1,6 +1,6 @@
 const input = document.getElementById('search-input');
 const searchBtn = document.getElementById('search-btn');
-let myKey = "Bearer 81vectsokhbib676z6rvkbwx9y0clb";
+let myKey = "Bearer 295vzxczqat2ao8vunigdqlx6u0upr";
 let myClient = "fj1zbvow6f5o4tbej4txgkv0qbk0ww"
 
 const expand = (e) => {
